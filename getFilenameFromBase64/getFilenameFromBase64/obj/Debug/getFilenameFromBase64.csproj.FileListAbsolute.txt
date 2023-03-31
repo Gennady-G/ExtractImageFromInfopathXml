@@ -1,0 +1,6 @@
+C:\_prj\ridan\getFilenameFromBase64\getFilenameFromBase64\getFilenameFromBase64\bin\Debug\getFilenameFromBase64.exe.config
+C:\_prj\ridan\getFilenameFromBase64\getFilenameFromBase64\getFilenameFromBase64\bin\Debug\getFilenameFromBase64.exe
+C:\_prj\ridan\getFilenameFromBase64\getFilenameFromBase64\getFilenameFromBase64\bin\Debug\getFilenameFromBase64.pdb
+C:\_prj\ridan\getFilenameFromBase64\getFilenameFromBase64\getFilenameFromBase64\obj\Debug\getFilenameFromBase64.csproj.CoreCompileInputs.cache
+C:\_prj\ridan\getFilenameFromBase64\getFilenameFromBase64\getFilenameFromBase64\obj\Debug\getFilenameFromBase64.exe
+C:\_prj\ridan\getFilenameFromBase64\getFilenameFromBase64\getFilenameFromBase64\obj\Debug\getFilenameFromBase64.pdb
